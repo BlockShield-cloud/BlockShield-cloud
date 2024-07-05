@@ -14,8 +14,8 @@
 
 ## Testnets
 
-<a href="https://explorer.ksalab.xyz/artela/staking/artvaloper1yzh74yayvrfk7sgas7gkpurkus8uxs6evvqp69" target="_blank"><img src="img/artela.png" title="Artela" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://goldberg.avail.tools/#/staking" target="_blank"><img src="img/avail.png" title="Avail" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/artela.png" title="Artela" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/avail.png" title="Avail" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/elixir.png" title="Elixir" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/galactica.png" title="Galactica" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/koii.png" title="Koii" width="80" height="auto" style="max-width: 100%;"></a>
@@ -38,7 +38,7 @@
 
 [![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/blockshieldinf)
 [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/847139454787387413)
-[![Moti.bio](https://img.shields.io/static/v1?message=Medium&logo=moti.bio&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://moti.bio/blockshield)
+[![Moti.bio](https://img.shields.io/static/v1?message=Moti.bio&logo=moti.bio&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://moti.bio/blockshield)
 
 
 ## 💻 Tech Stack
