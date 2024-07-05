@@ -40,11 +40,6 @@
 [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/847139454787387413)
 [![Moti.bio](https://img.shields.io/static/v1?message=Medium&logo=moti.bio&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://moti.bio/blockshield)
 
-## 📊 Statistic
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ksalab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksalab&theme=dark&hide_border=false)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ksalab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 💻 Tech Stack
 
